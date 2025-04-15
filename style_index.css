@@ -1,8 +1,11 @@
+* {
+  color: #DDDDDD;
+}
+
 body {
   background-color: #6276A3;
   font-family: Arial, sans-serif;
   text-align: center;
-  color: #DDDDDD
 }
 
 h1 {
@@ -15,7 +18,6 @@ h2 {
 
 a {
   text-decoration: none;
-  color: #DDDDDD;
   font-size: 20px
   font-weight: bold;
 }
