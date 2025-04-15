@@ -36,6 +36,8 @@ img {
 /* Top navigation bar */
 
 .topnav {
+  overflow: hidden;
+  background-color: #DDDDDD;
   position: fixed;
   top: 0;
   width: 100%;
@@ -43,7 +45,6 @@ img {
 
 .topnav a {
   float: left;
-  background-color: #DDDDDD;
   color: #333333;
   text-decoration: none;
   font-size: 20px;
