@@ -12,6 +12,11 @@ h1 {
   font-size: 48px;
 }
 
+h2 {
+  font-size: 40px;
+  text-decoration: underline;
+}
+
 a {
   text-decoration: none;
   font-size: 32px;
