@@ -37,3 +37,31 @@ img {
   width: 50%;
   height: auto;
 }
+
+/* Top navigation bar */
+
+.topnav {
+  overflow: hidden;
+  background-color: #EEE;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #333;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 12px 16px;
+}
+
+.topnav a:hover {
+  background-color: #333;
+  color: #EEE;
+}
+
+.topnav a.active {
+  background-color: #6276A3;
+  color: #EEE;
+}

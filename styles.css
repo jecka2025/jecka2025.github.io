@@ -28,11 +28,26 @@ a:hover {
 }
 
 img {
-  width: auto;
-  height: 32px;
+  width: 50%;
+  height: auto;
 }
 
-/* Top navigation bar */
+table, th, td {
+  border: 1px solid;
+  text-align: left;
+  font-size: 20px;
+}
+
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+
+th, td {
+  padding: 10px;
+}
+
+/* top navigation bar */
 
 .topnav {
   overflow: hidden;
@@ -58,4 +73,13 @@ img {
 .topnav a.active {
   background-color: #6276A3;
   color: #EEE;
+}
+
+/* link flag images */
+.link {
+}
+
+.link img {
+  width: auto;
+  height: 32px;
 }
