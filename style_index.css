@@ -27,3 +27,36 @@ a:hover {
   color: #FFFFFF;
   text-decoration: underline;
 }
+
+img {
+  width: auto;
+  height: 32px;
+}
+
+/* Top navigation bar */
+
+.topnav {
+  overflow: hidden;
+  background-color: #DDDDDD;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.topnav a {
+  float: left;
+  color: #333333;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 12px 16px;
+}
+
+.topnav a:hover {
+  background-color: #333333;
+  color: #DDDDDD;
+}
+
+.topnav a.active {
+  background-color: #6276A3;
+  color: #DDDDDD;
+}
