@@ -1,0 +1,23 @@
+* {
+  color: #DDDDDD;
+}
+
+body {
+  background-color: #6276A3;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
