@@ -2,12 +2,12 @@ body {
   background-color: #6276A3;
   font-family: Arial, sans-serif;
   text-align: center;
-  color: #DDDDDD;
+  color: #DDDDDD
 }
 
-a {
+a:link {
   text-decoration: none;
-  color: #FFFFFF
+  color: #DDDDDD;
 }
 
 a:hover {
