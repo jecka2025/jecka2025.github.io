@@ -21,3 +21,8 @@ a {
 a:hover {
   color: #FFFFFF;
 }
+
+img {
+  width: auto;
+  height: 32px;
+}
