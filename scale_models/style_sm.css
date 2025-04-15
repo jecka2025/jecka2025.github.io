@@ -55,7 +55,7 @@ img {
   color: #DDDDDD;
 }
 
-.topnav a:active {
+.topnav a.active {
   background-color: #6276A3;
   color: #DDDDDD;
 }
