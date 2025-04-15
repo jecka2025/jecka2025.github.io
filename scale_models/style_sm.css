@@ -43,9 +43,11 @@ img {
 }
 
 .topnav a {
+  float: left;
   color: #333333;
   text-decoration: none;
   font-size: 20px;
+  padding: 15px 15px;
 }
 
 .topnav a:hover {
