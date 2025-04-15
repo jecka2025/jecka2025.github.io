@@ -32,3 +32,28 @@ img {
   width: auto;
   height: 32px;
 }
+
+/* Top navigation bar */
+
+.topnav {
+  background-color: #DDDDDD;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.topnav a {
+  color: #333333;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #333333
+  color: #DDDDDD;
+}
+
+.topnav a:active {
+  background-color: #6276A3;
+  color: #DDDDDD;
+}
